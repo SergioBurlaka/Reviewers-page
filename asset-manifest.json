@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Reviewers-page/static/css/main.894e728c.chunk.css",
+    "main.js": "/Reviewers-page/static/js/main.c23894de.chunk.js",
+    "main.js.map": "/Reviewers-page/static/js/main.c23894de.chunk.js.map",
+    "runtime-main.js": "/Reviewers-page/static/js/runtime-main.694f6189.js",
+    "runtime-main.js.map": "/Reviewers-page/static/js/runtime-main.694f6189.js.map",
+    "static/js/2.4facbdb3.chunk.js": "/Reviewers-page/static/js/2.4facbdb3.chunk.js",
+    "static/js/2.4facbdb3.chunk.js.map": "/Reviewers-page/static/js/2.4facbdb3.chunk.js.map",
+    "index.html": "/Reviewers-page/index.html",
+    "precache-manifest.7800a944df46d5f99f5f88f87bb2ea8e.js": "/Reviewers-page/precache-manifest.7800a944df46d5f99f5f88f87bb2ea8e.js",
+    "service-worker.js": "/Reviewers-page/service-worker.js",
+    "static/css/main.894e728c.chunk.css.map": "/Reviewers-page/static/css/main.894e728c.chunk.css.map",
+    "static/js/2.4facbdb3.chunk.js.LICENSE.txt": "/Reviewers-page/static/js/2.4facbdb3.chunk.js.LICENSE.txt",
+    "static/media/Beth.jpg": "/Reviewers-page/static/media/Beth.b23dab13.jpg",
+    "static/media/Jerry.jpg": "/Reviewers-page/static/media/Jerry.b981199b.jpg",
+    "static/media/MeeseeksHQ.png": "/Reviewers-page/static/media/MeeseeksHQ.6cf19b5e.png",
+    "static/media/Morty.jpg": "/Reviewers-page/static/media/Morty.46484a00.jpg",
+    "static/media/Rick.jpg": "/Reviewers-page/static/media/Rick.2ddfabba.jpg",
+    "static/media/Summer.jpg": "/Reviewers-page/static/media/Summer.d5afbba3.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.694f6189.js",
+    "static/js/2.4facbdb3.chunk.js",
+    "static/css/main.894e728c.chunk.css",
+    "static/js/main.c23894de.chunk.js"
+  ]
+}
