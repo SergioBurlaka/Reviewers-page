@@ -1,0 +1,37 @@
+﻿1. При загрузке старницы получить список Reviewers. Пример ответа
+
+[
+	{
+		email: email@gmail.com,
+		name: Some Reviewer,
+		image_url: some-image.com/image-40-40
+	}
+]
+
+2. Отобразить полученные данные как выпадающий список
+3. При выборе ревьювера из списка сделать запрос на получение информации о ревьювере. В запросе надо передать email выбранного ревьюера. Пример данных в ответе
+
+[
+	{
+		domains: ["Marketing"],
+		email: "email@gmail.com",
+		image_url: "image_url: some-image.com/image-40-40",
+		name: "Some Employee",
+		weeks_with_submitted_reports: [20200503, 20200426, 20200510, 20200524, 20200517]
+	},
+	{
+		domains: ["Finance"],
+		email: "email@gmail.com",
+		image_url: "image_url: some-image.com/image-40-40",
+		name: "Some Employee 2",
+		weeks_with_submitted_reports: [20200503, 20200524, 20200517]
+	},
+]
+
+4. Отобразить полученные данные
+	а) Вывести список полученных сотрудников (Name, Email, Domain)
+	б) Список недель должен формироваться автоматически исходя из текущей недели
+	в) Массив weeks_with_submitted_reports отображает недели с заполненными отчетами, где неделя предствлена первым днем (Sunday) в виде YYYYMMDD
+	г) Если текущая неделя присутствует в массиве weeks_with_submitted_reports отображаем "Submitted", если нет - "Pending". Для остальных недель суть та же, только выводим иконки, а не текст
+
+5. Допольнительное задание (необязательно): Сделать адаптивную версию

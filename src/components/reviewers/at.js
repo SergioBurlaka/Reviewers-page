@@ -1,0 +1,5 @@
+
+
+export default {
+  SET_CURRENT_REVIEWER: 'SET_CURRENT_REVIEWER'
+}
