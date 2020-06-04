@@ -118,6 +118,10 @@
   align-items: center;
   width: 100%;
   justify-content: space-around;
+  .damb-box{
+    width: 28px;
+    height: 28px;
+  }
 
   &__item{
     min-width: 56px;
@@ -160,10 +164,7 @@
   color: #BAC5CE;
 
   &-report{
-    .damb-box{
-      width: 28px;
-      height: 28px;
-    }
+    
   }
 
 
